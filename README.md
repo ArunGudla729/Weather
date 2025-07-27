@@ -21,11 +21,12 @@ Open index.html in your browser
 Replace "YOUR_API_KEY" in your script.js with your actual key.
 
 weather-app/
-
+weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
+├── LICENSE         
 └── screenshot.png
 
 This project is licensed under the MIT License.
